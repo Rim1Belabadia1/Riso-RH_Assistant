@@ -95,11 +95,3 @@ CV-Interview-App/
 
 - **Rim Belabadia** - Développement de l'application
 
-
-
-### Explications :
-- **Prérequis** : Liste des dépendances que l'utilisateur doit installer pour faire fonctionner l'application.
-- **Installation** : Instructions pour cloner le projet et installer les dépendances.
-- **Utilisation** : Explication de la manière d'exécuter l'application et de son fonctionnement.
-- **Structure du projet** : Organisation des fichiers du projet pour que l'utilisateur puisse s'y retrouver.
-- **Auteurs** : Crédits au développeur du projet.
